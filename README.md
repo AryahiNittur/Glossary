@@ -31,7 +31,7 @@ term1
 This is the definition of term1.
 
 term2 
-Definition of term2 
+Definition of term2 <br>
 includes term1.
 
 term3 
